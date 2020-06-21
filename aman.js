@@ -1,7 +1,7 @@
 $(document).ready(function(){
 $.ajax({
     type: "Get",
-    url: "https://sagarjadhavwebdev.github.io/App/AJ.json",
+    url: "https://amanjadhavekm.github.io/ekmusafir/AJ.json",
     dataType: "json",
     success: function(data) {
     console.log(data)
