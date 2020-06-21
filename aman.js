@@ -42,7 +42,7 @@ for(var i=0;i<data.length;i++){
     }
     
 });
-    });
+
 
 $(".cop").click(function() {
 
@@ -69,3 +69,5 @@ textBox.select();
   navigator.vibrate([50]);
 document.execCommand("copy");
 }
+
+    });
